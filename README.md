@@ -14,7 +14,7 @@ A RESTful API for managing a bookstore application, built with Java and Spring B
 - In-memory database (H2) for development & PostgreSQL for production
 
 ## 🛠️ Technologies
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - Hibernate ORM
